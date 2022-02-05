@@ -16,13 +16,9 @@ Course material, 2nd semester a.y. 2021/2022, Dept. of Computer Science
 
 **Where:**
 
-- Physically: Aula 1 - Aule L Via del Castro Laurenziano 7a
+Physically in Aula 2 (Wednesdays) and Aula 1 (Thursdays) - Aule L Via del Castro Laurenziano 7a
 
-*Important*: Please use **Infostud Lab** (not Prodigit!) for booking a seat in the classroom. This should be done **no later than 48h** from the start of the lecture.
-
-- Virtually: Zoom ([link to the virtual classroom](https://zoom.us/j/4752349941?pwd=U0doeGFLWFFDSWlzWWxvd0JGMDRndz09)), Meeting ID: 475 234 9941, Passcode: 3K7xrM.
-
-**Q & A:** Please use the issue system of Github. [Here](https://github.com/erodola/DLAI-s2-2021) is the link to the course repository, you'll need to create a free account to access it.
+**Q & A:** Please use the issue system of Github. [Here](https://github.com/erodola/DLAI-s2-2022) is the link to the course repository, you'll need to create a free account to access it.
 
 ### Pre-requisites
 
@@ -43,9 +39,9 @@ Evaluation proceeds according to the following steps:
 
 The _cum laude_ can be obtained only by taking the oral exam. For students who already have a very high score with written exam + project, the oral exam is meant to confirm the high score.
 
-The list of **projects** is now published (details [here](https://github.com/erodola/DLAI-s2-2021/issues/19)). Each project must be accompanied with code to a github repository, and with a 2 page report using [this](https://github.com/erodola/DLAI-s2-2021/files/6393267/template.zip) fixed template. Projects can be made in groups of at most 2 students.
+The list of projects will be published at a later time.
 
-Here you can find exam sheets for the written part from past exam sessions:
+Here you can find some example sheets of past written exams:
 
 - [June 2021](https://github.com/erodola/DLAI-s2-2021/raw/main/exams/June-2021.pdf)
 - [July 2021](https://github.com/erodola/DLAI-s2-2021/raw/main/exams/July-2021.pdf)
@@ -53,10 +49,6 @@ Here you can find exam sheets for the written part from past exam sessions:
 - [October 2021](https://github.com/erodola/DLAI-s2-2021/raw/main/exams/October-2021.pdf)
 
 ### Lectures
-
-All the lectures (video, audio and chat script) will be recorded and stored in this [Google Drive folder](https://drive.google.com/drive/folders/1ByxH8071EwBJkkRpb1NpkyIG7MM3psHl?usp=sharing).
-
-Please note that the audio quality will not be very good in general, due to technical issues.
 
 **Date** | **Topic** | **Reading** | **Code & Data**
 ------------ | ------------- | ------------ | ------------
