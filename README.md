@@ -53,5 +53,3 @@ Here you can find some example sheets of past written exams:
 **Date** | **Topic** | **Reading** | **Code & Data**
 ------------ | ------------- | ------------ | ------------
 Wed 23 Feb | Introduction |  |
-
-**End**
