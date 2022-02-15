@@ -14,9 +14,11 @@ Course material, 2nd semester a.y. 2021/2022, Dept. of Computer Science
 
 **When:** Wednesdays 16:00--19:00 and Thursdays 10:00--12:00 ([official schedule](https://www.studiareinformatica.uniroma1.it/laurea-magistrale/orario-lezioni))
 
-**Where:**
+**Where: The course will be held exclusively in physical presence.**
 
-Physically in Aula 2 (Wednesdays) and Aula 1 (Thursdays) - Aule L Via del Castro Laurenziano 7a
+Classrooms: Aula 2 (Wednesdays) and Aula 1 (Thursdays) - Aule L Via del Castro Laurenziano 7a
+
+The lectures will not be recorded.
 
 **Q & A:** Please use the issue system of Github. [Here](https://github.com/erodola/DLAI-s2-2022) is the link to the course repository, you'll need to create a free account to access it.
 
