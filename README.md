@@ -14,9 +14,11 @@ Course material, 2nd semester a.y. 2021/2022, Dept. of Computer Science
 
 **When:** Wednesdays 16:00--19:00 and Thursdays 10:00--12:00 ([official schedule](https://www.studiareinformatica.uniroma1.it/laurea-magistrale/orario-lezioni))
 
-**Where: The course will be held exclusively in physical presence.**
+**Where:**
 
-Classrooms: Aula 2 (Wednesdays) and Aula 1 (Thursdays) - Aule L Via del Castro Laurenziano 7a
+Physical classrooms (capacity: 100%): Aula 2 (Wednesdays) and Aula 1 (Thursdays) - Aule L Via del Castro Laurenziano 7a
+
+Virtual classroom: [Zoom](https://zoom.us/j/4752349941?pwd=U0doeGFLWFFDSWlzWWxvd0JGMDRndz09), Meeting ID: 475 234 9941, Passcode: 3K7xrM.
 
 The lectures will not be recorded.
 
