@@ -56,4 +56,5 @@ Here you can find some example sheets of past written exams:
 
 **Date** | **Topic** | **Reading** | **Code & Data**
 ------------ | ------------- | ------------ | ------------
-Wed 23 Feb | Introduction |  |
+Wed 23 Feb | Introduction | [slides](https://github.com/erodola/DLAI-s2-2022/raw/main/01_intro/01-intro.pdf) |
+Thu 24 Feb | Data, features, and embeddings | [slides](https://github.com/erodola/DLAI-s2-2022/raw/main/02_data/02-data.pdf) |
