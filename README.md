@@ -59,3 +59,4 @@ Here you can find some example sheets of past written exams:
 Wed 23 Feb | Introduction | [slides](https://github.com/erodola/DLAI-s2-2022/raw/main/01_intro/01-intro.pdf) |
 Thu 24 Feb | Data, features, and embeddings | [slides](https://github.com/erodola/DLAI-s2-2022/raw/main/02_data/02-data.pdf) |
 Wed 02 Mar | Tensor manipulation |  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/erodola/DLAI-s2-2022/blob/main/labs/01/01_Tensor_basics_2022.ipynb)
+Thu 03 Mar | Linear algebra revisited | [slides](https://github.com/erodola/DLAI-s2-2022/raw/main/03_linalg/03-linalg.pdf); [notes on matrix meta-mechanics](https://github.com/erodola/DLAI-s2-2022/raw/main/03_linalg/03b-matrix.pdf) |
