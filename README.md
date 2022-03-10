@@ -61,3 +61,4 @@ Thu 24 Feb | Data, features, and embeddings | [slides](https://github.com/erodol
 Wed 02 Mar | Tensor manipulation |  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/erodola/DLAI-s2-2022/blob/main/labs/01/01_Tensor_basics_2022.ipynb)
 Thu 03 Mar | Linear algebra revisited | [slides](https://github.com/erodola/DLAI-s2-2022/raw/main/03_linalg/03-linalg.pdf); [notes on matrix meta-mechanics](https://github.com/erodola/DLAI-s2-2022/raw/main/03_linalg/03b-matrix.pdf) |
 Wed 09 Mar | Tensor operations |  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/erodola/DLAI-s2-2022/blob/main/labs/02/02_Tensor_operations_2022.ipynb)
+Thu 10 Mar | Linear regression, convexity, and gradients | [slides](https://github.com/erodola/DLAI-s2-2022/raw/main/04_linear/04-linear.pdf) |
