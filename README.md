@@ -63,3 +63,4 @@ Thu 03 Mar | Linear algebra revisited | [slides](https://github.com/erodola/DLAI
 Wed 09 Mar | Tensor operations |  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/erodola/DLAI-s2-2022/blob/main/labs/02/02_Tensor_operations_2022.ipynb)
 Thu 10 Mar | Linear regression, convexity, and gradients | [slides](https://github.com/erodola/DLAI-s2-2022/raw/main/04_linear/04-linear.pdf) |
 Wed 16 Mar | Linear models and Pytorch Datasets   |  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/erodola/DLAI-s2-2022/blob/main/labs/03/03_Linear_models_and_Pytorch_Datasets_2022.ipynb) |
+Thu 17 Mar | Overfitting and going nonlinear | [slides](https://github.com/erodola/DLAI-s2-2022/raw/main/05_nonlinear/05-nonlinear.pdf) |
