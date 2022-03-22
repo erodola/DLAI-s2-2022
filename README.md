@@ -22,7 +22,7 @@ Virtual classroom: [Zoom](https://zoom.us/j/4752349941?pwd=U0doeGFLWFFDSWlzWWxvd
 
 The lectures will not be recorded.
 
-**Q & A:** Please use the issue system of Github. [Here](https://github.com/erodola/DLAI-s2-2022) is the link to the course repository, you'll need to create a free account to access it.
+**Q & A:** Please use the Discussions system of Github. [Here](https://github.com/erodola/DLAI-s2-2022) is the link to the course repository.
 
 ### Pre-requisites
 
