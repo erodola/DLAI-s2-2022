@@ -32,6 +32,9 @@ Programming fundamentals in **Python**; calculus; linear algebra.
 
 Due to the continuously evolving nature of the topic, there is no fixed textbook as a reference. Specific material in the form of scientific articles and book chapters will be given throughout the lectures.
 
+In addition, you can find [Here](https://github.com/erodola/DLAI-s2-2022/resources/Course_notes_Crisostomi.pdf) some supplementary course notes.  
+
+
 ### Grading
 
 Evaluation proceeds according to the following steps:
