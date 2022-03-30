@@ -1,4 +1,4 @@
-## Deep Learning & Applied AI @Sapienza
+j# Deep Learning & Applied AI @Sapienza
 
 Course material, 2nd semester a.y. 2021/2022, Dept. of Computer Science
 
@@ -32,8 +32,7 @@ Programming fundamentals in **Python**; calculus; linear algebra.
 
 Due to the continuously evolving nature of the topic, there is no fixed textbook as a reference. Specific material in the form of scientific articles and book chapters will be given throughout the lectures.
 
-In addition, you can find [Here](https://github.com/erodola/DLAI-s2-2022/raw/main/resources/Course_notes_Crisostomi.pdf) some supplementary course notes.
-
+In addition, you can find [here](https://github.com/erodola/DLAI-s2-2022/blob/main/resources/Course_notes_Crisostomi.pdf) some supplementary course notes.
 
 ### Grading
 
@@ -69,3 +68,4 @@ Wed 16 Mar | Linear models and Pytorch Datasets   |  | [![Open In Colab](https:/
 Thu 17 Mar | Overfitting and going nonlinear | [slides](https://github.com/erodola/DLAI-s2-2022/raw/main/05_nonlinear/05-nonlinear.pdf) |
 Wed 23 Mar | Logistic Regression and Optimization |  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/erodola/DLAI-s2-2022/blob/main/labs/04/4_Logistic_Regression_and_Optimization.ipynb) |
 Thu 24 Mar | Stochastic gradient descent | [slides](https://github.com/erodola/DLAI-s2-2022/raw/main/06_sgd/06-sgd.pdf) |
+Wed 30 Mar | Autograd and Modules | | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/erodola/DLAI-s2-2022/blob/main/labs/05/5_Autograd_and_Modules_2022.ipynb)
