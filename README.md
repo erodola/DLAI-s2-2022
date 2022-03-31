@@ -1,4 +1,4 @@
-j# Deep Learning & Applied AI @Sapienza
+# Deep Learning & Applied AI @Sapienza
 
 Course material, 2nd semester a.y. 2021/2022, Dept. of Computer Science
 
@@ -69,3 +69,4 @@ Thu 17 Mar | Overfitting and going nonlinear | [slides](https://github.com/erodo
 Wed 23 Mar | Logistic Regression and Optimization |  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/erodola/DLAI-s2-2022/blob/main/labs/04/4_Logistic_Regression_and_Optimization.ipynb) |
 Thu 24 Mar | Stochastic gradient descent | [slides](https://github.com/erodola/DLAI-s2-2022/raw/main/06_sgd/06-sgd.pdf) |
 Wed 30 Mar | Autograd and Modules | | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/erodola/DLAI-s2-2022/blob/main/labs/05/5_Autograd_and_Modules_2022.ipynb)
+Thu 31 Mar | Multi-layer perceptron and back-propagation | [slides](https://github.com/erodola/DLAI-s2-2022/raw/main/07_mlp/07-mlp.pdf) |
