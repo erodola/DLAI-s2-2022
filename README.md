@@ -71,3 +71,4 @@ Thu 24 Mar | Stochastic gradient descent | [slides](https://github.com/erodola/D
 Wed 30 Mar | Autograd and Modules | | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/erodola/DLAI-s2-2022/blob/main/labs/05/5_Autograd_and_Modules_2022.ipynb)
 Thu 31 Mar | Multi-layer perceptron and back-propagation | [slides](https://github.com/erodola/DLAI-s2-2022/raw/main/07_mlp/07-mlp.pdf) |
 Wed 06 Apr | Convolutional Neural Networks   |  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/erodola/DLAI-s2-2022/blob/main/labs/06/6_Convolutional_Neural_Networks_2022.ipynb) |
+Thu 07 Apr | Convolutional Neural Networks | [slides](https://github.com/erodola/DLAI-s2-2022/raw/main/08_cnn/08-cnn.pdf) |
