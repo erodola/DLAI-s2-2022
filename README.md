@@ -4,6 +4,7 @@ Course material, 2nd semester a.y. 2021/2022, Dept. of Computer Science
 
 ### News
 
+- **13/04/2022:** Please fill out the OPIS questionnaire (instructions [here](https://www.uniroma1.it/sites/default/files/field_file_allegati/guided_path_to_access_student_s_opinions_questionnaire_2021_2022.pdf)). The code for this course is X6SYL1ZK.
 - **13/04/2022:** The lecture of April 14th is cancelled due to Easter holidays, as per the academic calendar.
 - **05/02/2022:** The course website is online. Welcome to DLAI 2021/22!
 
