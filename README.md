@@ -4,6 +4,7 @@ Course material, 2nd semester a.y. 2021/2022, Dept. of Computer Science
 
 ### News
 
+- **13/04/2022:** The lecture of April 14th is cancelled due to Easter holidays, as per the academic calendar.
 - **05/02/2022:** The course website is online. Welcome to DLAI 2021/22!
 
 ### Logistics
