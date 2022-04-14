@@ -78,4 +78,4 @@ Wed 13 Apr | Regularization, batchnorm and dropout | [slides](https://github.com
 Wed 20 Apr | TBD |  |
 Thu 21 Apr | TBD |  |
 Wed 27 Apr | Invited lecture |  |
-Thu 28 Apr | Midterm self-evaluation |  |
+Thu 28 Apr | **Midterm self-evaluation** |  |
