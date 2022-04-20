@@ -75,7 +75,7 @@ Thu 31 Mar | Multi-layer perceptron and back-propagation | [slides](https://gith
 Wed 06 Apr | Convolutional Neural Networks   |  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/erodola/DLAI-s2-2022/blob/main/labs/06/6_Convolutional_Neural_Networks_2022.ipynb) |
 Thu 07 Apr | Convolutional Neural Networks | [slides](https://github.com/erodola/DLAI-s2-2022/raw/main/08_cnn/08-cnn.pdf) |
 Wed 13 Apr | Regularization, batchnorm and dropout | [slides](https://github.com/erodola/DLAI-s2-2022/raw/main/09_regular/09-regular.pdf) |
-Wed 20 Apr | TBD |  |
+Wed 20 Apr | Uncertainty, regularization and the deep learning toolset |  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/erodola/DLAI-s2-2022/blob/main/labs/07/7_Uncertainty,_regularization_and_the_deep_learning_toolset.ipynb) | 
 Thu 21 Apr | TBD |  |
 Wed 27 Apr | Invited lecture |  |
 Thu 28 Apr | **Midterm self-evaluation** |  |
