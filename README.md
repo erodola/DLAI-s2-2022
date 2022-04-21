@@ -4,6 +4,7 @@ Course material, 2nd semester a.y. 2021/2022, Dept. of Computer Science
 
 ### News
 
+- **21/04/2022:** The list of projects is now published, please scroll down for more details.
 - **13/04/2022:** Please fill out the OPIS questionnaire (instructions [here](https://www.uniroma1.it/sites/default/files/field_file_allegati/guided_path_to_access_student_s_opinions_questionnaire_2021_2022.pdf)). The code for this course is X6SYL1ZK.
 - **13/04/2022:** The lecture of April 14th is cancelled due to Easter holidays, as per the academic calendar.
 - **05/02/2022:** The course website is online. Welcome to DLAI 2021/22!
@@ -47,7 +48,7 @@ Evaluation proceeds according to the following steps:
 
 The _cum laude_ can be obtained only by taking the oral exam. For students who already have a very high score with written exam + project, the oral exam is meant to confirm the high score.
 
-The list of projects will be published at a later time.
+The list of **projects** is now published; please connect to the discord server to download the list. Each project must be accompanied with code + a 2 page report using a fixed template, also shared on the discord server. Projects can be made in groups of at most 2 students, but in this case, you must motivate this decision and get our approval beforehand.
 
 Here you can find some example sheets of past written exams:
 
