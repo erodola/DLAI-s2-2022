@@ -3,7 +3,7 @@
 Course material, 2nd semester a.y. 2021/2022, Dept. of Computer Science
 
 ### News
-
+- **26/04/2022:** The lectures of the 27th and 28th will regard an invited lecture and the midterm respectively, both during the standard lecture hours. The invited lecture will be given in the usual hybrid setting, so you can either come in presence or follow it remotely; the midterm will instead be performed remotely. The following Zoom meeting will be used for both lectures: Meeting ID: 624 518 7703 Passcode: 5rk76a.
 - **21/04/2022:** The list of projects is now published, please scroll down for more details.
 - **13/04/2022:** Please fill out the OPIS questionnaire (instructions [here](https://www.uniroma1.it/sites/default/files/field_file_allegati/guided_path_to_access_student_s_opinions_questionnaire_2021_2022.pdf)). The code for this course is X6SYL1ZK.
 - **13/04/2022:** The lecture of April 14th is cancelled due to Easter holidays, as per the academic calendar.
