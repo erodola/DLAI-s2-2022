@@ -78,5 +78,5 @@ Thu 07 Apr | Convolutional Neural Networks | [slides](https://github.com/erodola
 Wed 13 Apr | Regularization, batchnorm and dropout | [slides](https://github.com/erodola/DLAI-s2-2022/raw/main/09_regular/09-regular.pdf) |
 Wed 20 Apr | Uncertainty, regularization and the deep learning toolset | [slides](https://github.com/erodola/DLAI-s2-2022/raw/main/labs/07/ML%20Tooling%202022.pdf) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/erodola/DLAI-s2-2022/blob/main/labs/07/7_Uncertainty,_regularization_and_the_deep_learning_toolset.ipynb) | 
 Thu 21 Apr | Deep generative models | [slides](https://github.com/erodola/DLAI-s2-2022/raw/main/10_generative/10-generative.pdf) |
-Wed 27 Apr | Invited lecture | [slides](https://github.com/erodola/DLAI-s2-2022/raw/main/11_invited/invited_lecture_Norelli.pdf) |
+Wed 27 Apr | Invited lecture: _Antonio Norelli: "Towards an artificial scientist"_ | [slides](https://github.com/erodola/DLAI-s2-2022/raw/main/11_invited/invited_lecture_Norelli.pdf) |
 Thu 28 Apr | **Midterm self-evaluation** |  |
