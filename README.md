@@ -3,6 +3,7 @@
 Course material, 2nd semester a.y. 2021/2022, Dept. of Computer Science
 
 ### News
+- **03/05/2022:** The midterm grades are now published.
 - **26/04/2022:** The lectures of the 27th and 28th will regard an invited lecture and the midterm respectively, both during the standard lecture hours. The invited lecture will be given in the usual hybrid setting, so you can either come in presence or follow it remotely; the midterm will instead be performed remotely. The following Zoom meeting will be used for both lectures: Meeting ID: 889 5007 5810 Passcode: 774414.
 - **21/04/2022:** The list of projects is now published, please scroll down for more details.
 - **13/04/2022:** Please fill out the OPIS questionnaire (instructions [here](https://www.uniroma1.it/sites/default/files/field_file_allegati/guided_path_to_access_student_s_opinions_questionnaire_2021_2022.pdf)). The code for this course is X6SYL1ZK.
@@ -79,7 +80,7 @@ Wed 13 Apr | Regularization, batchnorm and dropout | [slides](https://github.com
 Wed 20 Apr | Uncertainty, regularization and the deep learning toolset | [slides](https://github.com/erodola/DLAI-s2-2022/raw/main/labs/07/ML%20Tooling%202022.pdf) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/erodola/DLAI-s2-2022/blob/main/labs/07/7_Uncertainty,_regularization_and_the_deep_learning_toolset.ipynb) | 
 Thu 21 Apr | Deep generative models | [slides](https://github.com/erodola/DLAI-s2-2022/raw/main/10_generative/10-generative.pdf) |
 Wed 27 Apr | Invited lecture: _Antonio Norelli: "Towards an artificial scientist"_ | [slides](https://github.com/erodola/DLAI-s2-2022/raw/main/11_invited/invited_lecture_Norelli.pdf) |
-Thu 28 Apr | **Midterm self-evaluation** |  |
+Thu 28 Apr | **Midterm self-evaluation** | [sheet](https://github.com/erodola/DLAI-s2-2022/raw/main/midterm/sheet.pdf); [grades](https://github.com/erodola/DLAI-s2-2022/raw/main/midterm/evaluations.pdf) |
 Wed 04 May |  |  |
 Thu 05 May |  |  |
 Wed 11 May |  |  |
