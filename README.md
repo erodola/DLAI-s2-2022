@@ -81,7 +81,7 @@ Wed 20 Apr | Uncertainty, regularization and the deep learning toolset | [slides
 Thu 21 Apr | Deep generative models | [slides](https://github.com/erodola/DLAI-s2-2022/raw/main/10_generative/10-generative.pdf) |
 Wed 27 Apr | Invited lecture: _Antonio Norelli: "Towards an artificial scientist"_ | [slides](https://github.com/erodola/DLAI-s2-2022/raw/main/11_invited/invited_lecture_Norelli.pdf) |
 Thu 28 Apr | **Midterm self-evaluation** | [sheet](https://github.com/erodola/DLAI-s2-2022/raw/main/midterm/sheet.pdf); [grades](https://github.com/erodola/DLAI-s2-2022/raw/main/midterm/evaluations.pdf) |
-Wed 04 May |  |  |
+Wed 04 May | Variational AutoEncoders |  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/erodola/DLAI-s2-2022/blob/main/labs/08/8_Variational_Autoencoders_(VAEs).ipynb)
 Thu 05 May |  |  |
 Wed 11 May |  |  |
 Thu 12 May |  |  |
