@@ -3,6 +3,7 @@
 Course material, 2nd semester a.y. 2021/2022, Dept. of Computer Science
 
 ### News
+- **05/05/2022:** Today's lecture will be streamed in the following Zoom meeting 909 702 0027, passcode: 887440
 - **03/05/2022:** The midterm grades are now published.
 - **26/04/2022:** The lectures of the 27th and 28th will regard an invited lecture and the midterm respectively, both during the standard lecture hours. The invited lecture will be given in the usual hybrid setting, so you can either come in presence or follow it remotely; the midterm will instead be performed remotely. The following Zoom meeting will be used for both lectures: Meeting ID: 889 5007 5810 Passcode: 774414.
 - **21/04/2022:** The list of projects is now published, please scroll down for more details.
