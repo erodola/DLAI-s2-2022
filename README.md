@@ -83,7 +83,7 @@ Thu 21 Apr | Deep generative models | [slides](https://github.com/erodola/DLAI-s
 Wed 27 Apr | Invited lecture: _Antonio Norelli: "Towards an artificial scientist"_ | [slides](https://github.com/erodola/DLAI-s2-2022/raw/main/11_invited/invited_lecture_Norelli.pdf) |
 Thu 28 Apr | **Midterm self-evaluation** | [sheet](https://github.com/erodola/DLAI-s2-2022/raw/main/midterm/sheet.pdf); [grades](https://github.com/erodola/DLAI-s2-2022/raw/main/midterm/evaluations.pdf) |
 Wed 04 May | Variational AutoEncoders |  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/erodola/DLAI-s2-2022/blob/main/labs/08/8_Variational_Autoencoders_(VAEs).ipynb)
-Thu 05 May | Geometric deep learning | [slides](https://github.com/erodola/DLAI-s2-2022/raw/main/11_geometric/11-gdl.pdf) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/erodola/DLAI-s2-2022/blob/main/labs/10/Geometric_deep_learning.ipynb) |
+Thu 05 May | Geometric deep learning | [slides](https://github.com/erodola/DLAI-s2-2022/raw/main/11_geometric/11-gdl.pdf); [video](https://youtu.be/w6Pw4MOzMuo) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/erodola/DLAI-s2-2022/blob/main/labs/10/Geometric_deep_learning.ipynb) |
 Wed 11 May |  |  |
 Thu 12 May |  |  |
 Wed 18 May |  |  |
