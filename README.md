@@ -58,6 +58,8 @@ Here you can find some example sheets of past written exams:
 - [July 2021](https://github.com/erodola/DLAI-s2-2021/raw/main/exams/July-2021.pdf)
 - [September 2021](https://github.com/erodola/DLAI-s2-2021/raw/main/exams/September-2021.pdf)
 - [October 2021](https://github.com/erodola/DLAI-s2-2021/raw/main/exams/October-2021.pdf)
+- [January 2022](https://github.com/erodola/DLAI-s2-2022/raw/main/exams/Jan22.pdf)
+- [February 2022](https://github.com/erodola/DLAI-s2-2022/raw/main/exams/Feb22.pdf)
 
 ### Lectures
 
