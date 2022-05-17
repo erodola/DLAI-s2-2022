@@ -88,6 +88,6 @@ Wed 04 May | Variational AutoEncoders |  | [![Open In Colab](https://colab.resea
 Thu 05 May | Geometric deep learning | [slides](https://github.com/erodola/DLAI-s2-2022/raw/main/11_geometric/11-gdl.pdf); [video](https://youtu.be/w6Pw4MOzMuo) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/erodola/DLAI-s2-2022/blob/main/labs/10/Geometric_deep_learning.ipynb) |
 Wed 11 May | Self-attention and transformers | [slides](https://github.com/erodola/DLAI-s2-2022/raw/main/12_trans/12-trans.pdf) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/erodola/DLAI-s2-2022/blob/main/labs/11/Transformers_2022.ipynb)
 Thu 12 May | Adversarial training | [slides](https://github.com/erodola/DLAI-s2-2022/raw/main/13_adversarial/13-adversarial.pdf) |
-Wed 18 May |  |  |
+Wed 18 May | CycleGAN and Adversarial Attacks  |  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/erodola/DLAI-s2-2022/blob/main/labs/09/CycleGAN_and_Adversarial_Attacks.ipynb) |
 
 **End**
