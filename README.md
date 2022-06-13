@@ -3,6 +3,7 @@
 Course material, 2nd semester a.y. 2021/2022, Dept. of Computer Science
 
 ### News
+- **13/06/2022:** The grades for the written exam of June 10th are available [here](https://github.com/erodola/DLAI-s2-2022/raw/main/June10-grades.pdf)
 - **05/05/2022:** Today's lecture will be streamed in the following Zoom meeting 909 702 0027, passcode: 887440
 - **03/05/2022:** The midterm grades are now published.
 - **26/04/2022:** The lectures of the 27th and 28th will regard an invited lecture and the midterm respectively, both during the standard lecture hours. The invited lecture will be given in the usual hybrid setting, so you can either come in presence or follow it remotely; the midterm will instead be performed remotely. The following Zoom meeting will be used for both lectures: Meeting ID: 889 5007 5810 Passcode: 774414.
