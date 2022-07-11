@@ -3,6 +3,7 @@
 Course material, 2nd semester a.y. 2021/2022, Dept. of Computer Science
 
 ### News
+- **11/07/2022:** The grades for the written exam of July 08th are available [here](https://github.com/erodola/DLAI-s2-2022/raw/main/July08-grades.pdf)
 - **13/06/2022:** The grades for the written exam of June 10th are available [here](https://github.com/erodola/DLAI-s2-2022/raw/main/June10-grades.pdf)
 - **05/05/2022:** Today's lecture will be streamed in the following Zoom meeting 909 702 0027, passcode: 887440
 - **03/05/2022:** The midterm grades are now published.
